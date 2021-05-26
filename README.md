@@ -2,17 +2,15 @@
 
 Frontend do totem que será responsavel de informar o cliente sobre o estado de sua transacao
 
-## Install the dependencies
-```bash
-yarn
-```
+## Features
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+- Validar e informar o peso total das compras do cliente.
 
-### Lint the files
+## Tech Stack
+
+**Client:** Quasar, Material Design
+
+<!-- ### Lint the files
 ```bash
 yarn run lint
 ```
@@ -23,4 +21,4 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js). -->
