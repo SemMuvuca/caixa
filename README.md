@@ -4,6 +4,7 @@ Frontend do totem que será responsavel de informar o cliente sobre o estado de 
 
 ## Features
 
+- Capturar qrcode do aplicativo (PWA)
 - Validar e informar o peso total das compras do cliente.
 
 ## Tech Stack
