@@ -1,4 +1,4 @@
-# Frontend do totem - Sem Muvuca (frontend-totem)
+# Frontend do totem - Sem Muvuca
 
 Frontend do totem que será responsavel de informar o cliente sobre o estado de sua transacao
 
