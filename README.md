@@ -14,6 +14,7 @@ Frontend do totem que será responsavel de informar o cliente sobre o estado de 
 ## Authors
  - Thiago Augusto Souza Silva
  - Daniel Berg Souza Lima
+ - Tiago Lopes de Moura
 
 <!-- ### Lint the files
 ```bash
