@@ -11,6 +11,10 @@ Frontend do totem que será responsavel de informar o cliente sobre o estado de 
 
 **Client:** Quasar, Material Design
 
+## Authors
+ - Thiago Augusto Souza Silva
+ - Daniel Berg Souza Lima
+
 <!-- ### Lint the files
 ```bash
 yarn run lint
