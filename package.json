@@ -25,7 +25,7 @@
     "eslint-webpack-plugin": "^2.4.0"
   },
   "browserslist": [
-    "Chrome 88"
+    "chrome 88"
   ],
   "engines": {
     "node": ">= 10.18.1",
