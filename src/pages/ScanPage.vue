@@ -16,8 +16,10 @@
 
 <script>
 import { StreamBarcodeReader } from "vue-barcode-reader"
+import { api } from '../boot/axios'
+
 export default {
-  name: 'PageIndex',
+  name: 'ScanPage',
   components: {
     StreamBarcodeReader
   },
